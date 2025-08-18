@@ -32,7 +32,7 @@
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/yourusername/my-python-DeepFace-predict_Age-gender-feelings-project.git
+git clone https://github.com/ThammanoonAKE/my-python-DeepFace-predict_Age-gender-feelings-project.git
 cd my-python-DeepFace-predict_Age-gender-feelings-project
 ```
 
